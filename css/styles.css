@@ -2,12 +2,14 @@
     background-color: #ecfcff;
     padding-top: 40px;
     position: relative;
+    text-align: center;
 }
 .bottom-container{
     background-color: #66bfbf;
     height: 120px;
     position: relative;
     padding-top: 40px;
+    text-align: center;
 }
 body{
     margin: 0;
@@ -40,8 +42,8 @@ h3{
 .web{
     margin : 20px;
     position: relative;
-    height: 28.125rem;
-    width:37.5rem;   
+    height: 28.125 rem;
+    width:37.50rem;   
 }
 .cartoon{
     width :12.5rem;
